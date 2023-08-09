@@ -1,4 +1,4 @@
-# Connect a wine game with VPN Tunnel in linux
+# [Guide - Tutorial] Connect a wine game with VPN Tunnel in linux
 
 For this example we use the new Baldurs Gate III for play via online LAN using a VPN for play with friends like local network
 
@@ -26,3 +26,6 @@ Next in the Wine configuration, under Libraries tab add **wsock32** in New overr
 Also you probably could add it in **DLL override options** of your wine manager or using **enviroment variables**.
 
 ![DLL-Override-Lutris](https://github.com/Milor123/Lutris-ZeroTier-Or-VPN/assets/14153649/b82206c6-542c-42cb-9ae9-2b620b9937a8)
+
+Now you can play the game and going to multiplayer and connect your game with your VPN friends (In whatever SO, windows, mac , linux)
+Enjoy!!!  Thanks to HectorBailey the which teach this method in old game. He is my reference for this guide (https://github.com/HectorBailey/Total-Annihilation-Linux-Wine)
