@@ -1,6 +1,6 @@
 # [Guide - Tutorial] Connect a wine game with VPN Tunnel in linux
 
-For this example we use the new Baldurs Gate III for play via online LAN using a VPN for play with friends like local network
+For this example we use the new Baldurs Gate III for play via online LAN using a VPN for play with friends like local network (it also works for LAN only without VPN if you need it for some reason)
 
 ## Requeriments:
 
