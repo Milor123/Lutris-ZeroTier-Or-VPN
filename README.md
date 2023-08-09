@@ -7,7 +7,7 @@ For this example we use the new Baldurs Gate III for play via online LAN using a
 - Install VPN over you linux network, for my case I've used ZeroTier One, (install configure and test that it work nice in your linux).
 - Install Bottles or Lutris or you wine manager preferred (for this example I'll use lutris)
 - Install your game
-- Install IPXwrapper ([Download an extract file](https://www.solemnwarning.net/ipxwrapper/ipxwrapper-0.6.1.zip) over your game main folder, where is the main .exe file, not the launcher, the main file, for the case of baldurs gate we search the **folder** where is the files **bg3.exe or bg3_dx11.exe** )
+- Install IPXwrapper [Download an extract file](https://www.solemnwarning.net/ipxwrapper/ipxwrapper-0.6.1.zip) over your game main folder, where is the main .exe file, not the launcher, the main file, for the case of baldurs gate we search the **folder** where is the files **bg3.exe or bg3_dx11.exe** )
 
 After of have all in order and stay sure that VPN works nice over linux, now we need hook it in windows, in the wine.
 
