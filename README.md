@@ -23,3 +23,6 @@ Next in the Wine configuration, under Libraries tab add **wsock32** in New overr
 
 ![ConfigureWineVPN-2](https://github.com/Milor123/Lutris-ZeroTier-Or-VPN/assets/14153649/0b39af83-37e8-4b2b-ad14-7ab2be9d33ad)
 
+Also you probably could add it in **DLL override options** of your wine manager or using **enviroment variables**.
+
+![DLL-Override-Lutris](https://github.com/Milor123/Lutris-ZeroTier-Or-VPN/assets/14153649/b82206c6-542c-42cb-9ae9-2b620b9937a8)
