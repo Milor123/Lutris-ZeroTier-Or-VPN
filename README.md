@@ -25,6 +25,9 @@ Next in the Wine configuration, under Libraries tab add **wsock32** in New overr
 
 Also you probably could add it in **DLL override options** of your wine manager or using **enviroment variables**.
 
+In DLL override
+in key add **wsock32** and in value add **native,builtin** OR **n,b** test with both because i am not sure which work.
+
 ![DLL-Override-Lutris](https://github.com/Milor123/Lutris-ZeroTier-Or-VPN/assets/14153649/b82206c6-542c-42cb-9ae9-2b620b9937a8)
 
 Now you can play the game and going to multiplayer and connect your game with your VPN friends (In whatever SO, windows, mac , linux)
